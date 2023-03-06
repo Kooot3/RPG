@@ -1,0 +1,7 @@
+C:\Users\MSI\RiderProjects\RPG\OOPGame\obj\Debug\OOPGame.csproj.AssemblyReference.cache
+C:\Users\MSI\RiderProjects\RPG\OOPGame\obj\Debug\OOPGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\RiderProjects\RPG\OOPGame\obj\Debug\OOPGame.csproj.CoreCompileInputs.cache
+C:\Users\MSI\RiderProjects\RPG\OOPGame\bin\Debug\OOPGame.exe
+C:\Users\MSI\RiderProjects\RPG\OOPGame\bin\Debug\OOPGame.pdb
+C:\Users\MSI\RiderProjects\RPG\OOPGame\obj\Debug\OOPGame.exe
+C:\Users\MSI\RiderProjects\RPG\OOPGame\obj\Debug\OOPGame.pdb
